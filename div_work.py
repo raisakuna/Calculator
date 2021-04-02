@@ -1,3 +1,3 @@
 # this is division funciont
-def (a,b):
+def (a, b):
     return a+b
